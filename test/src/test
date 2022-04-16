@@ -1,0 +1,6 @@
+public static void main(String[] args)
+{
+    float num1=3.23;
+    double num2=3.23;
+
+}
